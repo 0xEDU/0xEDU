@@ -1,4 +1,4 @@
-# Hi I'm Edu :)
+# Hi I'm Edu ;)
 
 Science and Technology @ UFABC
-Python 'n Hacking!
+Into programming 'n hacking!
