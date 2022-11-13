@@ -3,22 +3,21 @@ I'm Edu, welcome to my github page 🤠.<br>
 I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet at 42sp </a> studying to become a <bold>human coder</bold>👨‍🚀🚀👽<br>
 
 ### 🤖 42 Achievements 
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
+<a href="https://github.com/0xEDU/libft" target="_blank">
 <img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
-<a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
+<a href="https://github.com/0xEDU/get-next-line" target="_blank">
 <img src="./images/get_next_linee.png" alt="Raba eni" width="150" height="150">
 </a>
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
+<a href="https://github.com/0xEDU/ft_printf" target="_blank">
 <img src="./images/ft_printfe.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
 <img src="./images/born2berootm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
+<a href="https://github.com/0xEDU/fdf" target="_blank">
 <img src="./images/fdfm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
-<a href="https://github.com/andreyvdl/42-libft" target="_blank">
+<a href="https://github.com/0xEDU/minitalk" target="_blank">
 <img src="./images/minitalkm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
 
