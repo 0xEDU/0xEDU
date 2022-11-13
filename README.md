@@ -10,16 +10,16 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <img src="./images/get_next_linee.png" alt="Raba eni" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/ft_printf" target="_blank">
-<img src="./images/ft_printfe.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+<img src="./images/ft_printfe.png" alt="Aprendendo a escrever..." width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/0xEDU" target="_blank">
-<img src="./images/born2berootm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+<img src="./images/born2berootm.png" alt="Sysadmin!" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/fdf" target="_blank">
-<img src="./images/fdfm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+<img src="./images/fdfm.png" alt="Fio de Ferro" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/minitalk" target="_blank">
-<img src="./images/minitalkm.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
+<img src="./images/minitalkm.png" alt="Conversinha" width="150" height="150">
 </a>
 
 ## 🔰 Skills: 
