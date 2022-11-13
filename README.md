@@ -4,7 +4,7 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 
 ## 🔰 Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub> 
-:---: | :---: | :---: 
+:---: | :---: | :---: | :---: | :---:
 
 
 <a href="https://github.com/0xEDU">
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm from Goi
+- ⚡ Fun fact: I'm from Goiás
 -->
