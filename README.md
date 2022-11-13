@@ -2,7 +2,7 @@
 I'm Edu, welcome to my github page 🤠.<br>
 I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet at 42sp </a> studying to become a <bold>human coder</bold>👨‍🚀<br>
 
-### 🤖 42 Achievements 
+### 🤖 42 Achievements 🏅
 <a href="https://github.com/0xEDU/libft" target="_blank">
 <img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
