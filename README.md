@@ -8,8 +8,8 @@ I'm a <a href="https://profile.intra.42.fr/users/adantas-" target="_blank">cadet
 
 
 <a href="https://github.com/0xEDU">
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyvdl&langs_count=7&theme=chartreuse-dark"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=andreyvdl&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEDU&langs_count=7&theme=chartreuse-dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=0xEDU&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <br>
 
 <!--
