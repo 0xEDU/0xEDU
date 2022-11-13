@@ -8,7 +8,7 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 </a>
 <a href="https://github.com/andreyvdl/42-get-next-line" target="_blank">
 <img src="./images/get_next_linee.png" alt="Raba eni" width="150" height="150">
-</a><br>
+</a>
 <a href="https://github.com/andreyvdl/42-libft" target="_blank">
 <img src="./images/ft_printfe.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
