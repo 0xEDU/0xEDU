@@ -6,7 +6,7 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <a href="https://github.com/0xEDU/libft" target="_blank">
 <img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
-<a href="https://github.com/0xEDU/get-next-line" target="_blank">
+<a href="https://github.com/0xEDU/get_next_line" target="_blank">
 <img src="./images/get_next_linee.png" alt="Raba eni" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/ft_printf" target="_blank">
