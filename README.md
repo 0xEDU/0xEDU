@@ -29,7 +29,7 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <img src="./images/minishellm.png" alt="Inferno" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/philosophers" target="_blank">
-<img src="./images/minishellm.png" alt="Spaghetti" width="150" height="150">
+<img src="./images/philosophersm.png" alt="Spaghetti" width="150" height="150">
 </a>
 
 ## 🚀 Skills: 
