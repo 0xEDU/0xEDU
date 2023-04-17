@@ -31,6 +31,12 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <a href="https://github.com/0xEDU/philosophers" target="_blank">
 <img src="./images/philosophersm.png" alt="Spaghetti" width="150" height="150">
 </a>
+<a href="https://github.com/0xEDU/0xEDU" target="_blank">
+<img src="./images/netpracticee.png" alt="Spaghetti" width="150" height="150">
+</a>
+<a href="https://github.com/0xEDU/minirt" target="_blank">
+<img src="./images/netpracticee.png" alt="Spaghetti" width="150" height="150">
+</a>
 
 ## 🚀 Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75"><br><sub>VS Code</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="75"><br><sub>Dev Containers</sub> 
