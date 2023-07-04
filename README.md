@@ -32,10 +32,13 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <img src="./images/philosophersm.png" alt="Spaghetti" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/0xEDU" target="_blank">
-<img src="./images/netpracticee.png" alt="Spaghetti" width="150" height="150">
+<img src="./images/netpracticee.png" alt="Switchers e routers" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/minirt" target="_blank">
-<img src="./images/minirtm.png" alt="Spaghetti" width="150" height="150">
+<img src="./images/minirtm.png" alt="Luz" width="150" height="150">
+</a>
+<a href="https://github.com/0xEDU/cpp" target="_blank">
+<img src="./images/cppe.png" alt="++C" width="150" height="150">
 </a>
 
 ## 🚀 Skills: 
