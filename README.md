@@ -3,7 +3,7 @@
 I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet at 42sp </a> studying to become a <bold>human coder</bold>👨‍🚀<br>
 千里之行，始於足下！
 
-### 🤖 42 Achievements 🏅
+### 🤖 42
 <a href="https://github.com/0xEDU/libft" target="_blank">
 <img src="./images/libfte.png" alt="Silêncio na biblioteca 🤫" width="150" height="150">
 </a>
@@ -41,9 +41,6 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <img src="./images/cppe.png" alt="++C" width="150" height="150">
 </a>
 
-## 🚀 Skills: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75"><br><sub>BASH</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="75" height="75"><br><sub>C</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"><br><sub>Python</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="75" height="75"><br><sub>VIM</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75"><br><sub>Linux</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="75" height="75"><br><sub>VS Code</sub> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="75"><br><sub>Dev Containers</sub> 
-:---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 ## 🧠 Others:
 <a href="https://github.com/0xEDU">
