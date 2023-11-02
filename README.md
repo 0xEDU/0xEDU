@@ -41,9 +41,11 @@ I'm a <a href="https://profile.intra.42.fr/users/etachott" target="_blank">cadet
 <img src="./images/cppe.png" alt="++C" width="150" height="150">
 </a>
 <a href="https://github.com/0xEDU/inception" target="_blank">
-<img src="./images/inceptionm.png" alt="++C" width="150" height="150">
+<img src="./images/inceptionm.png" alt="whales" width="150" height="150">
 </a>
-
+<a href="https://github.com/0xEDU/ft_irc" target="_blank">
+<img src="./images/ft_ircm.png" alt="whatsapp 2" width="150" height="150">
+</a>
 
 ## 🧠 Others:
 <a href="https://github.com/0xEDU">
