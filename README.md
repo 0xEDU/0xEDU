@@ -1,3 +1,5 @@
+# About me
+
 <a href="https://profile.intra.42.fr/users/etachott" target="_blank"><bold>human coder by 42sp</bold> </a> 👨‍🚀 <br>
 fullstack @ itaú, building credentials systems for business credit cards <br>
 recent open source contributions:
