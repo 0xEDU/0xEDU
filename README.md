@@ -9,6 +9,4 @@
   </li>
 </ul>
 </p>
-<a href="https://github.com/0xEDU">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=0xEDU&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<br>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=0xEDU&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
