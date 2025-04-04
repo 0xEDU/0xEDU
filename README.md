@@ -9,5 +9,5 @@
   </li>
 </ul>
 </p>
-<p>feel free to reach me on my <a href="https://linkedin.com/in/edutctt/">linkedin</a></p>
+<p>feel free to reach me on my <a href="https://linkedin.com/in/edutctt/">linkedin</a>!!</p>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=0xEDU&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
