@@ -6,6 +6,7 @@
 <ul>
   <li>
     <a href="https://github.com/bluesky-social/social-app">bluesky social network</a>
+    <a href="https://github.com/0xEDU/euro-tracker">euro tracker</a>
   </li>
 </ul>
 </p>
