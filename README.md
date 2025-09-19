@@ -1,7 +1,7 @@
 # About me
 
 <p><a href="https://profile.intra.42.fr/users/etachott" target="_blank"><bold>human coder by 42sp</bold> </a>👨‍🚀</p>
-<p>fullstack software engineer @ itaú, building credentials systems for business credit cards with Angular (Javascript/Typescript) and Spring Boot (Kotlin/Java)</p>
+<p>fullstack software engineer @ itaú, building solutions for document upload with Angular (Javascript/Typescript) and Spring Boot (Kotlin/Java)</p>
 <p>recent open source contributions:
 <ul>
   <li>
